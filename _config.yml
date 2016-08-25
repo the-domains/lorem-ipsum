@@ -1,16 +1,16 @@
-typography_spectrum: 0.25920125818811357
+layout_spectrum: 0.8661296649370342
+typography_spectrum: 0.203615638660267
 color:
-  brandStrength: 0.5528935082256794
-  lightness: 0.6232459715101868
-  saturation: 0.26376866619102657
-  rhythmicContrast: 0.8260766884777695
+  brandStrength: 0.38575614243745804
+  lightness: 0.9876573940273374
+  saturation: 0.5372928737197071
+  rhythmicContrast: 0.6551488256081939
   brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
-layout_spectrum: 0.5741727952845395
+    - '#FF6600'
+    - '#C13B00'
+    - '#5E6D70'
+    - '#424E4F'
+    - '#1B1D1E'
 name: Lorem ipsum
 title: testimuna
 description: hello hello
