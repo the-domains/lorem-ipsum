@@ -1,0 +1,14 @@
+layout_spectrum: 0.5741727952845395
+typography_spectrum: 0.25920125818811357
+color:
+  brandStrength: 0.5528935082256794
+  lightness: 0.6232459715101868
+  saturation: 0.26376866619102657
+  rhythmicContrast: 0.8260766884777695
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+name: Lorem ipsum
